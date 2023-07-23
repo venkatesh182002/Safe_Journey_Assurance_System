@@ -18,6 +18,7 @@ Accident Detection: The vibration sensor is used to detect accidents or collisio
 
 GPS Location Reporting: The system includes a GPS module to obtain accurate location data. In case of an accident, the system uses this information to notify emergency contacts with the precise location.
 
+
 Hardware Components
 
 Gas Sensor (Alcohol Detection)
@@ -40,6 +41,7 @@ Software Components
 Arduino IDE for writing and uploading the code to the embedded board.
 
 Proteus for simulation and testing of the embedded system.
+
 
 Installation and Usage
 
