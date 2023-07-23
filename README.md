@@ -5,7 +5,8 @@ Overview
 GuardianDrive is an embedded project focused on ensuring a safe journey for drivers and passengers by actively monitoring various safety parameters during a vehicle journey. The system integrates a range of sensors, including gas sensor (alcohol detection), vibration sensor (accident detection), and infrared sensor (seat belt detection) to implement comprehensive safety measures. In case of potential hazards, the system takes appropriate actions, such as preventing the vehicle from starting or sending an alert with the location information.
 
 
-![Uploading image.png…]()
+![image](https://github.com/venkatesh182002/Safe_Journey_Assurance_System/assets/74310227/1c62d395-e85b-421b-8445-5ac84cebb438)
+
 
 Key Features
 
