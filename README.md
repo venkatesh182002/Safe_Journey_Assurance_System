@@ -21,31 +21,47 @@ GPS Location Reporting: The system includes a GPS module to obtain accurate loca
 Hardware Components
 
 Gas Sensor (Alcohol Detection)
+
 Vibration Sensor (Accident Detection)
+
 Infrared Sensor (Seat Belt Detection)
+
 Relay (Motor Control)
+
 Buzzer (Accident Alert)
+
 GPS Module (Location Tracking)
+
 GSM Module (Message Sending)
+
 
 Software Components
 
 Arduino IDE for writing and uploading the code to the embedded board.
+
 Proteus for simulation and testing of the embedded system.
 
 Installation and Usage
 
 Clone this repository to your local machine.
+
 Open the Arduino IDE and upload the code to the embedded board used in the project.
+
 Set up the Proteus simulation with the appropriate sensor input signals and verify the system's behavior.
+
 Connect the hardware components as per the circuit diagram provided in the repository.
+
 Power up the system and observe the LCD display for status messages.
+
 Test the system with different scenarios, such as alcohol detection, seat belt detection, and accident simulation, to ensure its proper functioning.
+
 
 Future Enhancements
 
 Implement real-time communication between the system and a mobile app for receiving live updates and notifications.
+
 Integrate advanced driver assistance features, such as lane departure warnings and collision avoidance.
+
 Enhance the accuracy of alcohol detection by using more sophisticated gas sensors.
 
 
@@ -57,7 +73,9 @@ Contributions to this project are welcome. If you find any issues or have ideas 
 Acknowledgments
 
 TinyGPS library for GPS functionality.
+
 LiquidCrystal library for interfacing with the LCD display.
+
 Arduino community for valuable resources and inspiration.
 
 
